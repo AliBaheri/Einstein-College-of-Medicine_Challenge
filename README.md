@@ -1,4 +1,4 @@
-# Einstein College of Medicine ML Challenge:
+# Einstein College of Medicine ML Challenge
 
 
 ### Overall:
