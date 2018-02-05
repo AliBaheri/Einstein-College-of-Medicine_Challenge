@@ -1,7 +1,8 @@
 # Einstein College of Medicine ML Challenge:
 
-### Overall:
 
+### Overal:
+This repo contains the materials for `Einstein College of Medicine ML Challenge`.
 
 ### Data:
 Original data: [Citibike Monthly Trip Data](https://s3.amazonaws.com/tripdata/index.html).
@@ -21,4 +22,4 @@ Two methods were used:
 
 
 ### Summary:
-
+It turn out that `Random forsets` outperforms both `RNN` and `LSTM` network. In fact, while the performance of `Random forests` algorithm is pretty good, it is a bit interesting why `RNN` and `LSTM` networks lead to poor results.
