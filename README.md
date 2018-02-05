@@ -2,7 +2,7 @@
 
 
 ### Overal:
-This repo contains the materials for `Einstein College of Medicine ML Challenge`.
+This repo contains a solution for `Einstein College of Medicine ML Challenge`.
 
 ### Data:
 Original data: [Citibike Monthly Trip Data](https://s3.amazonaws.com/tripdata/index.html).
