@@ -1,7 +1,7 @@
 # Einstein College of Medicine ML Challenge:
 
 
-### Overal:
+### Overall:
 This repo contains a solution for `Einstein College of Medicine ML Challenge`.
 
 ### Data:
