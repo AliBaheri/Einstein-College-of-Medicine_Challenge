@@ -5,7 +5,7 @@
 
 ### Data:
 Original data: [Citibike Monthly Trip Data](https://s3.amazonaws.com/tripdata/index.html).
-I preprocessed data such that the inputs of our algorithms are `Time` and `Location ID`, and the outputs are
+Using 2014 data, I preprocessed data such that the inputs of our algorithms are `Time` and `Location ID`, and the outputs are
 `# of bike in` and `# of bike out`.
 
 
