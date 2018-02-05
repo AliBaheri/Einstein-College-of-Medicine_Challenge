@@ -14,6 +14,10 @@ Build a machine learning model to predict the number of riders per hour for an e
 
 
 ### Methods:
+Two methods were used:
+
+1) Neural network including `simple neural net`, `Recurrent neural network (RNN)`, and an `LSTM network`.
+2) `Random forests`.
 
 
 ### Summary:
