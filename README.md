@@ -22,4 +22,4 @@ Two methods were used:
 
 
 ### Summary:
-It turn out that `Random forsets` outperforms both `RNN` and `LSTM` network. In fact, while the performance of `Random forests` algorithm is pretty good, it is a bit interesting why `RNN` and `LSTM` networks lead to poor results.
+It turns out that `Random forsets` outperforms both `RNN` and `LSTM` network. In fact, while the performance of `Random forests` algorithm is pretty good, it is a bit interesting why `RNN` and `LSTM` networks lead to poor results.
